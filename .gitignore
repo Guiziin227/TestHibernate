@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 xml
+*.xml
 
 ### Eclipse ###
 .apt_generated
