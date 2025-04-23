@@ -37,3 +37,7 @@ config.properties
 /.idea/**
 
 *.iml
+
+/.target
+/.gradle
+/.gradle/**
